@@ -44,7 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![image](https://github.com/hanshika-773/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153576501/63a9973f-6954-473d-ae46-059a7d9865c5)
+![image](https://github.com/hanshika-773/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153576501/7ce2d4f5-bd9a-4f75-babc-b5d6cdaab551)
+![image](https://github.com/hanshika-773/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/153576501/60903e23-6a87-4a52-8c0a-2a82153cb2c4)
+
+
 
 ### Name: Hanshika Varthini R
 ### Register Number: 212223240046
